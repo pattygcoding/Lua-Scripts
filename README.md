@@ -2,6 +2,7 @@
 
 ## Table of Contents
 - [Count Files](#count-files)
+- [Random Password](#random-password)
 - [Update Git](#update-git)
 
 ## Count Files
@@ -13,6 +14,14 @@ This script counts the number of files in the current directory and its subdirec
 ### Example Usage
 ```
 lua count_files.lua
+```
+
+## Random Password
+This script generates a random password.
+
+### Example Usage
+```
+lua random_password.lua
 ```
 
 ## Update Git

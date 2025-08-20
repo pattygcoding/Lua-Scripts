@@ -1,4 +1,5 @@
 # Lua Scripts by Patrick Goodwin
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/)
 
 ## Table of Contents
 - [Clear Git](#clear-git)
